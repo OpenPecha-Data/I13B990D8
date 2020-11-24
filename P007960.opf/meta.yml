@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1CZ2549
   title: འགྲོ་འདུལ་དཔའ་བོ་རྡོ་རྗེའི་རྣམ་ཐར་སྐལ་བཟང་ཡིད་ཀྱི་གདུང་སེལ
-  volume: ''
+  volume:
+    beace2cb79c3466589089b7499b10134:
+      image_group_id: I1CZ2727
+      title: Volume 1 of 'gro 'dul dpa' bo rdo rje'i rnam thar skal bzang yid kyi
+        gdung sel
+      volume_number: 1
+      total_pages: 218
   author: ''
+ebook_metadata:
+  title: འགྲོ་འདུལ་དཔའ་བོ་རྡོ་རྗེའི་རྣམ་ཐར་སྐལ་བཟང་ཡིད་ཀྱི་གདུང་སེལ
+  author: ''
+  sku: P007960
+  cover: cover.jpg
+  layers:
+  - pagination
